@@ -32,7 +32,7 @@ with torch.no_grad():
     correspondences = matcher(input_dict)
 
 '''
-Now let’s clean-up the correspondences and estimate fundamental matrix between two acoustic images
+To clean-up the correspondences and estimate fundamental matrix between two acoustic images
 '''
 mkpts0 = correspondences['keypoints0'].cpu().numpy()
 mkpts1 = correspondences['keypoints1'].cpu().numpy()
