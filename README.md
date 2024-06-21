@@ -27,6 +27,8 @@ Acoustic image denoising is achieved by self-supervised denoising pipeline (firs
 # Acknowledgements
 We borrowd and appreciate the contribution of code from the following sources：
 
+LoFTR: https://github.com/zju3dv/LoFTR
+
 Guided Image Filtering：https://kaiminghe.github.io/eccv10/index.html
 
 Neighbor2Neighbor: https://github.com/TaoHuang2018/Neighbor2Neighbor
