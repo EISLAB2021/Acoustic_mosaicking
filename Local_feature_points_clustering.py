@@ -20,7 +20,7 @@ fname2 = ''
 img1 = load_torch_image(fname1)
 img2 = load_torch_image(fname2)
 
-# Load LoFTR matcher
+# Load features matcher
 matcher = KF.LoFTR(pretrained='indoor')
 
 # Convert images to grayscale
