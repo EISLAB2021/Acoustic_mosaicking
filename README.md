@@ -22,7 +22,7 @@ Acoustic Image Mosaicking Using Local Feature Matching
   
 # Usage
 Utilities are defined in python scripts used as modules. Calculate the homography matrix H using the local feature matching results of adjacent overlapping acoustic images, and use the components of H for subsequent image mosaicking.
-Acoustic image denoising is achieved by self-supervised denoising (first-stage), and enhanced by the fine features guided block.
+Acoustic image denoising is achieved by self-supervised denoising pipeline (first-stage), and enhanced by the fine features guided block.
 
 # Acknowledgements
 We borrowd and appreciate the contribution of code from the following sources：
