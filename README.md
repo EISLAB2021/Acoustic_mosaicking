@@ -3,13 +3,21 @@ Acoustic Image Mosaicking Using Local Feature Matching
 
 # Prerequisites
   Python 3.x
+  
   Numpy
+  
   OpenCV
+  
   Kornia
+  
   SciPy
+  
   Scikit-learn 
+  
   Matplotlib
+  
   Pytorch > 1.3
+  
   Pillow
   
 # Usage
