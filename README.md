@@ -20,4 +20,4 @@ Acoustic image denoising is achieved by self-supervised denoising (first-stage),
 We borrowd and appreciate the contribution of code from the following sources：
 
 Guided Image Filtering：https://kaiminghe.github.io/eccv10/index.html
-Neighbor2Neighbor:https://github.com/TaoHuang2018/Neighbor2Neighbor
+Neighbor2Neighbor: https://github.com/TaoHuang2018/Neighbor2Neighbor
