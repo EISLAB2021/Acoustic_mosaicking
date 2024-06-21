@@ -22,7 +22,7 @@ img2 = load_torch_image(fname2)  # query
 
 start_time = time.time()
 
-## Loading weights
+## Loading features matcher
 matcher = KF.LoFTR(pretrained='outdoor')
 
 input_dict = {"image0": K.color.rgb_to_grayscale(img1),  # works on grayscale images
