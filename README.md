@@ -5,7 +5,8 @@ Acoustic Image Mosaicking Using Local Feature Matching
   Python 3.x
   Numpy
   OpenCV
+  Kornia
   SciPy
-  scikit-learn 
+  Scikit-learn 
   Matplotlib
-  pytorch-lightning         
+  Pytorch-lightning         
