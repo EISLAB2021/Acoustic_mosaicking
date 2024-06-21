@@ -1,7 +1,7 @@
 # Acoustic_mosaicking
 Acoustic Image Mosaicking Using Local Feature Matching
 
-#Prerequisites
+# Prerequisites
 Python 3.x
 Numpy
 OpenCV
