@@ -19,6 +19,8 @@ Acoustic Image 2D Mosaicking Using Local Feature Matching
   Pytorch > 1.3
   
   Pillow
+
+  math
   
 # Usage
 Utilities are defined in python scripts used as modules. Calculate the homography matrix H using the local feature matching results of adjacent overlapping acoustic images, and use the components of H for subsequent image mosaicking.
