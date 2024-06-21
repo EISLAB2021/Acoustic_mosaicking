@@ -1,5 +1,5 @@
 # Acoustic_mosaicking
-Acoustic Image Mosaicking Using Local Feature Matching
+Acoustic Image 2D Mosaicking Using Local Feature Matching
 
 # Prerequisites
   Python 3.x
